@@ -10,14 +10,11 @@
 
 JimySheepman
 
-## 🔥 Streak stats
+## 🔥 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/JimySheepman">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JimySheepman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JimySheepman&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JimySheepman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimySheepman&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -40,6 +37,7 @@ JimySheepman
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+  
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -80,14 +78,3 @@ JimySheepman
 </p>
 
 
-## 📊 Github stats
-
-JimySheepman
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JimySheepman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=JimySheepman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JimySheepman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimySheepman&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
